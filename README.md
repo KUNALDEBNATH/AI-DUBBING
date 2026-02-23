@@ -1,4 +1,3 @@
-```markdown
 # 🎬 AI-DUBBING
 
 > **Automatically dub videos into any language — preserving each speaker's voice using AI.**
@@ -24,6 +23,7 @@ Two notebooks are provided depending on your use case:
 ## 🧠 How It Works
 
 ### 🎙️ Single Person Dubbing
+
 ```
 Input Video
     │
@@ -47,6 +47,7 @@ Output Dubbed Video 🎬
 ```
 
 ### 👥 Multiple Person Dubbing
+
 ```
 Input Video
     │
@@ -196,4 +197,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 > *Built with ❤️ using cutting-edge AI — making content accessible across every language.*
-```
